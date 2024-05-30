@@ -14,6 +14,9 @@ As dependencies, I'll recomend to use this pack on Fabric 1.20.4, its the only v
 Thanks for downloading and hope you enjoy the pack, make sure to let me know your thoughts on it :)
 
 Copyright of used texturepacks:
+
 Hypixel+: https://hypixel.net/threads/0-20-1-hypixel-for-1-8-1-12-and-1-20.4174260/
+
 Furfsky: https://furfsky.net/
+
 Mandala's GUI: https://www.modrinth.com/resourcepack/mandalas-gui-dark-mode
