@@ -1,4 +1,4 @@
-# luma-mix
+# Hypixel Skyblock - Luma's Mix
 Hello every-nyan <3
 
 I'm your average hypixel skyblock player, and recently changed to 1.20, mostly because of performance, but the biggest bump was not having a solid texture pack like Furfsky to 1.20, and Hypixel+ made my game lag down to 1 fps in some screens because of the models they use.
