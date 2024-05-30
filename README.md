@@ -3,7 +3,7 @@ Hello every-nyan <3
 
 I'm your average hypixel skyblock player, and recently changed to 1.20, mostly because of performance, but the biggest bump was not having a solid texture pack like Furfsky to 1.20, and Hypixel+ made my game lag down to 1 fps in some screens because of the models they use.
 
-s a solution, I came up with Luma's Mix!
+As a solution, I came up with Luma's Mix!
 
 Its a mix based on Hypixel+ with touches of Furfsky, like weapons, armor, and some accesorries. And also some model tweaks to many items, solved my lag issue with the Hypixel+.
 This said, the only thing made by me is the shadow fury texture, everything else is taken from others great work to make this game even more fun!Also note that this is a personal for fun project, so it might have some holes here and there, but I've tested it and everything seemed fine, also is not that hard to tweak.
