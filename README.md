@@ -14,6 +14,12 @@ And if interested in more, search around https://www.modrinth.com/mods?q=hypixel
 
 Thanks for downloading and hope you enjoy the pack, make sure to let me know your thoughts on it :)
 
+![2024-05-31_00 56 55](https://github.com/lordmujin/luma-mix/assets/46675490/1a0a08a9-82b7-4bd8-ab78-eade3a90bcf1)
+
+![2024-05-31_00 55 41](https://github.com/lordmujin/luma-mix/assets/46675490/e76b683b-dd4b-4212-a606-ae49f59aef5c)
+
+![2024-05-31_00 56 00](https://github.com/lordmujin/luma-mix/assets/46675490/3b32c1f5-5e89-401a-b5c3-c0ba7c040a88)
+
 Copyright of used texturepacks:
 
 Hypixel+: https://hypixel.net/threads/0-20-1-hypixel-for-1-8-1-12-and-1-20.4174260/
