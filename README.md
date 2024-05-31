@@ -14,11 +14,13 @@ And if interested in more, search around https://www.modrinth.com/mods?q=hypixel
 
 Thanks for downloading and hope you enjoy the pack, make sure to let me know your thoughts on it :)
 
-![2024-05-31_00 56 55](https://github.com/lordmujin/luma-mix/assets/46675490/1a0a08a9-82b7-4bd8-ab78-eade3a90bcf1)
 
-![2024-05-31_00 55 41](https://github.com/lordmujin/luma-mix/assets/46675490/e76b683b-dd4b-4212-a606-ae49f59aef5c)
+![sorrow](https://github.com/lordmujin/luma-mix/assets/46675490/0ad8c71a-1702-4976-abc9-805c89f92d02)
 
-![2024-05-31_00 56 00](https://github.com/lordmujin/luma-mix/assets/46675490/3b32c1f5-5e89-401a-b5c3-c0ba7c040a88)
+![sa](https://github.com/lordmujin/luma-mix/assets/46675490/3c1f721d-2836-4b3d-a12c-3cf3954fe422)
+
+![rev](https://github.com/lordmujin/luma-mix/assets/46675490/6dc408d2-d6c7-4bb5-a780-060172b746c9)
+
 
 Copyright of used texturepacks:
 
