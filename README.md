@@ -29,3 +29,5 @@ Hypixel+: https://hypixel.net/threads/0-20-1-hypixel-for-1-8-1-12-and-1-20.41742
 Furfsky: https://furfsky.net/
 
 Mandala's GUI: https://www.modrinth.com/resourcepack/mandalas-gui-dark-mode
+
+Dark End: https://hypixel.net/threads/update-1-2-released-dark-mode-end-x16-1-8-9.4989982
